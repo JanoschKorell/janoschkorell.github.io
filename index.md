@@ -11,7 +11,7 @@ This app was created with dash and plotly so that interactions and inputs are po
 
 <img src="images/App - PTWT.png?raw=true"/>
 
-[View on google colab](https://colab.research.google.com/drive/1B47jgrPcoOJAS6UaKu6xzuYJCktM_5fw?usp=sharing/)
+[View on github](https://colab.research.google.com/drive/1B47jgrPcoOJAS6UaKu6xzuYJCktM_5fw?usp=sharing/)
 
 ---
 
@@ -23,7 +23,7 @@ I made this with regex strategies.
 
 <img src="images/Plenarprotokoll.png?raw=true"/>
 
-[View on google colab](https://github.com/JanoschKorell/Text-Mining---scraping-individual-politicians-speeches-from-texts))
+[View on github](https://github.com/JanoschKorell/Text-Mining---scraping-individual-politicians-speeches-from-texts))
 
 ---
 [Project 3 Title](http://example.com/)
