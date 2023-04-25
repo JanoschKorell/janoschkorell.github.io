@@ -1,13 +1,15 @@
-## Portfolio
+## Selected projects in data science, machine learning, statistics and NLP
 
-Selected projects in data science, machine learning, statistics and NLP
+
 
 ---
 
-### Category Name 1 
+### App - 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="images/App - PTWT.png?raw=true"/>
+
+[View on google colab](/https://colab.research.google.com/drive/1B47jgrPcoOJAS6UaKu6xzuYJCktM_5fw?usp=sharing)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
