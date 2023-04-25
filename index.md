@@ -14,8 +14,16 @@ This app was created with dash and plotly so that interactions and inputs are po
 [View on google colab](https://colab.research.google.com/drive/1B47jgrPcoOJAS6UaKu6xzuYJCktM_5fw?usp=sharing/)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Textmining - Scraping individual politicians speeches
+
+
+Script to scrape the speeches in order of time, in order and by speaker from the plenary transcripts.
+I made this with regex strategies.
+
+<img src="images/Plenarprotokoll.png?raw=true"/>
+
+[View on google colab](https://github.com/JanoschKorell/Text-Mining---scraping-individual-politicians-speeches-from-texts))
 
 ---
 [Project 3 Title](http://example.com/)
