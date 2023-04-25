@@ -38,7 +38,7 @@ I made this with regex strategies.
 ---
 
 
-### Machine Learning - Use LSTMs to learn rules of speaches
+### Machine Learning - Use LSTMs to learn rules of speeches
 
 
 With this script, LSTMs were used to learn the rules of politicians' speeches from the Bundestag and their partisan context. This way, text can be generated through queries that reflect the nature of the respective party. 
@@ -54,7 +54,7 @@ With this script, LSTMs were used to learn the rules of politicians' speeches fr
 ---
 
 
-### Machine Learning - Predict bad cars
+### Machine Learning - Predict bad cars and interpreting (explainable ai)
 
 
 This project is a complete Datascience workflow consisting of:
