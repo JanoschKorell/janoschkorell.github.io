@@ -65,13 +65,27 @@ EDA, Outliers, Imputation, Train-Test-Split, Dim Reduction, Feature Engineering,
 <img src="images/shap values.png?raw=true"/>
 
 
-[View on google colab](https://github.com/JanoschKorell/Predict-bad-cars---Full-Data-Sience-Project)
+[View on github](https://github.com/JanoschKorell/Predict-bad-cars---Full-Data-Sience-Project)
 
 
 ---
 
 
+---
 
+
+### Research project - Determinants of the perception of justice in Europe
+
+
+Logistic multilevel regression with Stata; Descriptive statistics, level 1 and level 2 hypotheses.
+
+This work is in the field of empirical justice research and aimed to explain determinants of perceptions of justice in Europe. Due to data protection reasons, only the STATA code can be published.
+
+
+<img src="images/SRC.png?raw=true"/>
+
+
+[View on github](https://github.com/JanoschKorell/Researchproject--Determinants-of-the-Perception-of-Justice-in-Europe)
 
 
 
