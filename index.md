@@ -14,7 +14,7 @@ This app was created with dash and plotly so that interactions and inputs are po
 [View on google colab](https://colab.research.google.com/drive/1B47jgrPcoOJAS6UaKu6xzuYJCktM_5fw?usp=sharing/)
 
 
-
+---
 
 
 ---
@@ -32,27 +32,24 @@ I made this with regex strategies.
 [View on github](https://github.com/JanoschKorell/Text-Mining---scraping-individual-politicians-speeches-from-texts)
 
 
-
-
-
-
-
-
+---
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+### Machine Learning - Use LSTMs to learn rules of speaches
+
+
+With this script, LSTMs were used to learn the rules of politicians' speeches from the Bundestag and their partisan context. This way, text can be generated through queries that reflect the nature of the respective party. 
+
+
+[View on google colab](http://example.com/](https://colab.research.google.com/drive/14wrXcbDBefyQZRu2fDnFkqbJefkeUdL5?usp=sharing)
+
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
