@@ -6,6 +6,8 @@
 
 ### App - 
 
+This app was created with dash and plotly so that interactions and inputs are possible. With it, it is possible to predict text with LSTM models trained with speeches of politicians from the German Bundestag. This is part of a larger project: "Bundestag in data". You can ask a question to three models at the same time and get different answers from different parties.
+
 
 <img src="images/App - PTWT.png?raw=true"/>
 
