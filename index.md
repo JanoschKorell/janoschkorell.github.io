@@ -9,7 +9,7 @@
 
 <img src="images/App - PTWT.png?raw=true"/>
 
-[View on google colab](/https://colab.research.google.com/drive/1B47jgrPcoOJAS6UaKu6xzuYJCktM_5fw?usp=sharing)
+[View on google colab](https://colab.research.google.com/drive/1B47jgrPcoOJAS6UaKu6xzuYJCktM_5fw?usp=sharing/)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
