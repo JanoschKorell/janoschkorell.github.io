@@ -1,5 +1,7 @@
 ## Portfolio
 
+Selected projects in data science, machine learning, statistics and NLP
+
 ---
 
 ### Category Name 1 
