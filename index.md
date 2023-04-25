@@ -54,6 +54,25 @@ With this script, LSTMs were used to learn the rules of politicians' speeches fr
 ---
 
 
+### Machine Learning - Predict bad cars
+
+
+This project is a complete Datascience workflow consisting of:
+
+EDA, Outliers, Imputation, Train-Test-Split, Dim Reduction, Feature Engineering, Hyperparameter Optimization, Train Model (XGBoost), Classification report, I Interpretation with SHAP Values.
+
+
+<img src="images/shap values.png?raw=true"/>
+
+
+[View on google colab](https://github.com/JanoschKorell/Predict-bad-cars---Full-Data-Sience-Project)
+
+
+---
+
+
+
+
 
 
 ---
