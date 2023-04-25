@@ -90,5 +90,21 @@ This work is in the field of empirical justice research and aimed to explain det
 
 
 ---
+
+
+---
+
+
+### Web scraping - Twitter scraper without API
+
+
+Because the previous ways to do data mining on Twitter are limited to sometimes poorly functioning libraries using the Twitter API, I wrote a piece of code over which I have my own control and for which no API is necessary.
+
+
+[View on github](https://github.com/JanoschKorell/Twitter-Scraper-without-API-)
+
+
+
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
