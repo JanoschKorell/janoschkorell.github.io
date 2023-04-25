@@ -44,7 +44,7 @@ I made this with regex strategies.
 With this script, LSTMs were used to learn the rules of politicians' speeches from the Bundestag and their partisan context. This way, text can be generated through queries that reflect the nature of the respective party. 
 
 
-[View on google colab](http://example.com/](https://colab.research.google.com/drive/14wrXcbDBefyQZRu2fDnFkqbJefkeUdL5?usp=sharing)
+[View on google colab](https://colab.research.google.com/drive/14wrXcbDBefyQZRu2fDnFkqbJefkeUdL5?usp=sharing)
 
 
 ---
