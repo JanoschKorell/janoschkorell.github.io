@@ -21,7 +21,7 @@ In this script, word vectors are created using your own data.
 
 <img src="images/bokeh_plot-2.png?raw=true"/>
 
-[Download the results](https://github.com/JanoschKorell/janoschkorell.github.io/blob/master/images/party_speech_tsne.html){:target="_blank"}
+[Click here!](https://www.janoschkorell.eu/wp-content/uploads/2023/05/party_speech_tsne.html){:target="_blank"}
 
 [View on google colab](https://colab.research.google.com/drive/1tjqPQcvTm8ZkJBp1-Zlw4ZEa3EqlYOCU?usp=sharing/)
 
