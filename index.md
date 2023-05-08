@@ -1,6 +1,38 @@
 ## Selected projects in data science, machine learning, statistics and NLP
 
 
+
+---
+
+### NLP - LDA Topic-Modeling with party speeches of the Bundestag of WP19
+
+In this script, topics were modeld with the Mallet version of LDA
+
+- The data was collected in-house and a sample of the party speeches was created.
+- The data were cleaned
+- The best coherence value was looked for
+- The most dominant theme per speech was
+- The proportion of each topic per session was calculated
+- 3 topics were selected. So one can see its progress.
+- Plotting with pygal
+
+- Result: The procedure works.
+- But: No statements can be made about the parties themselves. Differences in context are not reflected in the words.
+
+
+<img src="images/LDA_Topics.png?raw=true"/>
+
+[Click here!](https://jako1.w3spaces.com){:target="_blank"}
+
+[View on google colab](https://colab.research.google.com/drive/1r2jQIj2lu4Rgf5qpwEzIYbJ0ksAPiX-m?usp=sharing/)
+
+
+---
+
+
+---
+
+
 ---
 
 ### NLP - Word2Vec with party speeches of the Bundestag of WP19
