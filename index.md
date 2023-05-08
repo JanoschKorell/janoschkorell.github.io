@@ -17,7 +17,6 @@ In this script, topics were modeld with the Mallet version of LDA
 - Plotting with pygal
 
 
-
 <img src="images/LDA_Topics.png?raw=true"/>
 
 [Click here!](https://jako1.w3spaces.com){:target="_blank"}
