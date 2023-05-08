@@ -21,17 +21,12 @@ In this script, word vectors are created using your own data.
 
 <img src="images/bokeh_plot-2.png?raw=true"/>
 
+<img src="images/party_speech_tsne.html?raw=true"/>
+
 [View on google colab](https://colab.research.google.com/drive/1tjqPQcvTm8ZkJBp1-Zlw4ZEa3EqlYOCU?usp=sharing/)
 
 
 ---
-
-
----
-
-
-
-
 
 
 ---
