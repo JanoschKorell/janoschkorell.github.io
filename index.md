@@ -16,8 +16,6 @@ In this script, topics were modeld with the Mallet version of LDA
 - 3 topics were selected. So one can see its progress.
 - Plotting with pygal
 
-- Result: The procedure works.
-- But: No statements can be made about the parties themselves. Differences in context are not reflected in the words.
 
 
 <img src="images/LDA_Topics.png?raw=true"/>
