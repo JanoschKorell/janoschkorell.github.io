@@ -1,10 +1,42 @@
 ## Selected projects in data science, machine learning, statistics and NLP
 
 
+---
+
+### NLP - Word2Vec with party speeches of the Bundestag of WP19
+
+In this script, word vectors are created using your own data.
+
+- The data was collected in-house and a sample of the party speeches was created.
+- The data were cleaned
+- A neural network was created (not from gensim).
+- Similar vectors were selected based on keywords. Procedure: SkipGram
+- The data points of the resulting words were reduced to 2-dimensions using tsne.
+- The data points were plotted with Bokeh.
+- You can clearly see the similarities because the themes were coloured in.
+
+- Result: The procedure works.
+- But: No statements can be made about the parties themselves. Differences in context are not reflected in the words.
+
+
+<img src="images/bokeh_plot-2.png?raw=true"/>
+
+[View on google colab](https://colab.research.google.com/drive/1tjqPQcvTm8ZkJBp1-Zlw4ZEa3EqlYOCU?usp=sharing/)
+
 
 ---
 
-### App - Predict text with text from party speeches
+
+---
+
+
+
+
+
+
+---
+
+### App/NLP - Predict text with text from party speeches
 
 This app was created with dash and plotly so that interactions and inputs are possible. With it, it is possible to predict text with LSTM models trained with speeches of politicians from the German Bundestag. This is part of a larger project: "Bundestag in data". You can ask a question to three models at the same time and get different answers from different parties.
 
@@ -38,7 +70,7 @@ I made this with regex strategies.
 ---
 
 
-### Machine Learning - Use LSTMs to learn rules of speeches
+### Machine Learning/NLP - Use LSTMs to learn rules of speeches
 
 
 With this script, LSTMs were used to learn the rules of politicians' speeches from the Bundestag and their partisan context. This way, text can be generated through queries that reflect the nature of the respective party. 
