@@ -24,8 +24,6 @@ In this script, topics were modeld with the Mallet version of LDA
 [View on google colab](https://colab.research.google.com/drive/1r2jQIj2lu4Rgf5qpwEzIYbJ0ksAPiX-m?usp=sharing/)
 
 
----
-
 
 ---
 
