@@ -9,12 +9,12 @@
 In this script, topics were modeld with the Mallet version of LDA
 
 - The data was collected in-house and a sample of the party speeches was created.
-- The data were cleaned
-- The best coherence value was looked for
-- The most dominant theme per speech was
-- The proportion of each topic per session was calculated
+- The data were cleaned.
+- The best coherence value was looked for.
+- The most dominant theme per speech was selected.
+- The proportion of each topic per session was calculated.
 - 3 topics were selected. So one can see its progress.
-- Plotting with pygal
+- Plotting with pygal.
 
 
 <img src="images/LDA_Topics.png?raw=true"/>
