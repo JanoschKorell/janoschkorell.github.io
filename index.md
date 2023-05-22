@@ -24,6 +24,29 @@ In this script, topics were modeld with the Mallet version of LDA
 [View on google colab](https://colab.research.google.com/drive/1r2jQIj2lu4Rgf5qpwEzIYbJ0ksAPiX-m?usp=sharing/)
 
 
+---
+
+
+---
+
+
+### NLP - BERT Finetuning with huggingface german BERT model
+
+In this script, I present a simple workflow for finetuning a pretrained BERT model
+
+- The data was collected in-house and a sample of the party speeches was created.
+- The data were cleaned.
+- The data were prepared for the huggingface model finetuning
+- Simple NN for finetuning party speeches
+- Prediction of propabilities: When someone enters a text, you can see how likely this 
+  text corresponds to the respective parties.
+
+
+[View on google colab](https://colab.research.google.com/drive/13i_f0YJHwwhb0WwDjLZ1lTxm8fJL0Hj4?usp=sharing/)
+
+
+
+
 
 ---
 
