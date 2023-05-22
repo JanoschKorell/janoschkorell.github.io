@@ -11,7 +11,7 @@ In this script, I search for the best model for prediction and configure the lim
 - The data were cleaned.
 - Calculate tf-idf features
 - Check out many models for the best prediction; also word2vec
-- Check out flase classifications
+- Check flase classifications
 - Interprete the predictions with lime explainer
 
 
