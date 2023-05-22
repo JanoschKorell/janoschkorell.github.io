@@ -51,7 +51,7 @@ In this script, topics were modeld with the Mallet version of LDA
 ---
 
 
-### NLP - BERT Finetuning with huggingface german BERT model
+### NLP - BERT finetuning with huggingface german BERT model
 
 In this script, I present a simple workflow for finetuning a pretrained BERT model
 
