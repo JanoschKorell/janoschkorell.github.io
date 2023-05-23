@@ -51,7 +51,7 @@ In this script, topics were modeld with the Mallet version of LDA
 ---
 
 
-### NLP - BERT finetuning with huggingface german BERT model
+### NLP - BERT finetuning with huggingface german BERT model for classification
 
 In this script, I present a simple workflow for finetuning a pretrained BERT model
 
@@ -61,9 +61,11 @@ In this script, I present a simple workflow for finetuning a pretrained BERT mod
 - Simple NN for finetuning party speeches
 - Prediction of propabilities: When someone enters a text, you can see how likely this 
   text corresponds to the respective parties.
+- Visualisation und interaction with gradio
 
+<img src="images/gradio BERT.png?raw=true"/>
 
-[View on google colab](https://colab.research.google.com/drive/13i_f0YJHwwhb0WwDjLZ1lTxm8fJL0Hj4?usp=sharing/)
+[View on google colab](https://colab.research.google.com/drive/1WU9ZzQDJ-pwHelfyzXln8MJ22wfHKA6k?usp=sharing/)
 
 
 
