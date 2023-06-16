@@ -10,7 +10,7 @@ In this script, I search for the best model for prediction and configure the lim
 - The data was collected in-house and a sample of the party speeches was created.
 - The data were cleaned.
 - Calculate tf-idf features
-- Check out many models for the best prediction; also word2vec
+- Check out many models for the best prediction
 - Check flase classifications
 - Interprete the predictions with lime explainer
 
