@@ -25,6 +25,27 @@ In this script, I search for the best model for prediction and configure the lim
 
 ---
 
+### NLP - Doc2Vec, Evaluation, Classification. Also Classification with CNN.
+
+In this script, I classified with the help of Doc2Vec. A possibility to vectorise documents of any length. 
+
+- The data was collected in-house and a sample of the party speeches was created.
+- The data were cleaned.
+- Doc2Vec was made possible with the help of Gensim. Both DBOW and DM were calculated.
+- Evaluation of Doc2Vec: The model was good when the respective document was most similar to itself.
+- Classification with logistic Regression, tree based algorithms and all kinds of SVMs.
+- Classification with CNN.
+- The results are worse than those with TF-IDF
+
+
+[View on google colab](https://colab.research.google.com/drive/1dTdfws5Vsy8oudq4ItiAjikiG_4iR6Rt?hl=de/)
+
+
+---
+
+---
+
+
 ### NLP - LDA Topic-Modeling with party speeches of the Bundestag of WP19
 
 In this script, topics were modeld with the Mallet version of LDA
