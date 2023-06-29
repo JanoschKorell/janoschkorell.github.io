@@ -1,37 +1,10 @@
 ## Selected projects in data science, machine learning, statistics and NLP
 
 
----
 
-### NLP - Pre-train Longformer with masked language modelling on german party speeches
-
-
-- For long texts the Longformer is a suitable choice, because it can process 4096 inputs of tokens. 
-The goal: The Longformer should be trained with speeches of politicians from the Bundestag, so that the 
-German language and the peculiarity of the language of the speeches are learned.
-
-- Since the Longformer is based on RoBerta, the ByteLevel Tokenizer or RoBerta Tokenizer is used. 
-
-- 15% of the texts are masked and completely given into the model. 
-
-- The model was trained with about 35 epochs, a batch size of 4 and a learning rate of 0.00001 and 0.000001. 
-A higher batch size leads to an overload of the working memory of the GPU.
-
-- One can see that the word 'colleague' is correctly predicted with almost 100%. Some words are not predicted correctly, 
-but the sense and grammar is correct. 
-
-- The model was trained on a A100 80G GPU with 90GB ram.
-
-So,the language model works!
-
-<img src="images/Longformer.png?raw=true"/>
-
-
-[View on google colab](https://colab.research.google.com/drive/1q0vrNHLWiyP3GUxb0Yv8wfzHmTyMjR4E?usp=sharing/)
 
 
 ---
-
 
 ---
 
