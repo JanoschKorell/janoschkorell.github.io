@@ -25,7 +25,7 @@ but the sense and grammar is correct.
 So,the language model works!
 
 
-<img src="images/text_lime.png?raw=true"/>
+<img src="images/Longformer.png?raw=true"/>
 
 
 [View on google colab](https://colab.research.google.com/drive/1q0vrNHLWiyP3GUxb0Yv8wfzHmTyMjR4E?usp=sharing)
