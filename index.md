@@ -19,11 +19,12 @@ A higher batch size leads to an overload of the working memory of the GPU.
 - One can see that the word 'colleague' is correctly predicted with almost 100%. Some words are not predicted correctly, 
 but the sense and grammar is correct. 
 
-- The model was trained on a A100 80G GPU with 90GB ram.
+- The model was trained on a A100 80G GPU.
 
 So,the language model works!
 
 
+<img src="images/Longformer.png?raw=true"/>
 
 
 [View on google colab](https://colab.research.google.com/drive/1q0vrNHLWiyP3GUxb0Yv8wfzHmTyMjR4E?usp=sharing/)
