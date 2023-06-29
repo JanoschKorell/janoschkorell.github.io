@@ -24,7 +24,6 @@ but the sense and grammar is correct.
 
 So,the language model works!
 
-
 <img src="images/Longformer.png?raw=true"/>
 
 
