@@ -28,6 +28,27 @@ So,the language model works!
 
 [View on google colab](https://colab.research.google.com/drive/1q0vrNHLWiyP3GUxb0Yv8wfzHmTyMjR4E?usp=sharing/)
 
+---
+
+---
+
+### NLP - Classification with tf-idf and interpretation with lime 
+
+In this script, I search for the best model for prediction and configure the lime explainer for texts
+
+- The data was collected in-house and a sample of the party speeches was created.
+- The data were cleaned.
+- Calculate tf-idf features
+- Check out many models for the best prediction
+- Check flase classifications
+- Interprete the predictions with lime explainer
+
+
+<img src="images/text_lime.png?raw=true"/>
+
+
+[View on google colab](https://colab.research.google.com/drive/1OscdJQUFy9wokk653kCae02xTSxWN3aa?usp=sharing/)
+
 
 
 
