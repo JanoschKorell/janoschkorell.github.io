@@ -2,6 +2,29 @@
 
 ---
 
+
+### NLP - Pre-train Longformer with masked language modelling on german party speeches
+
+
+- In a previous script, the longformer was trained on the German language and the type of language used in political speeches of the German parliament. 
+
+- Now the fine-tuning takes place with the corresponding labels of the parties. 
+
+
+- With the help of the Longformer it is possible to process an input of 4096 tokens, which breaks the limitations of other Bert models. 
+
+-  The training takes a very long time and requires a GPU with a lot of RAM. So far, 45 epochs have been trained, each requiring 1.5 hours. You can examine the results so far under "6. test".
+
+
+<img src="images/Longformer.png?raw=true"/>
+
+
+[View on google colab](https://colab.research.google.com/drive/1dfgr4Wbd9Pp-vh1nvWShdO0KL8cYYHcY?usp=sharing/)
+
+
+---
+---
+
 ### NLP - Pre-train Longformer with masked language modelling on german party speeches
 
 
