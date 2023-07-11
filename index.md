@@ -16,7 +16,7 @@
 -  The training takes a very long time and requires a GPU with a lot of RAM. So far, 45 epochs have been trained, each requiring 1.5 hours. You can examine the results so far under "6. test".
 
 
-<img src="images/Longformer.png?raw=true"/>
+<img src="images/RocAuc_long.png?raw=true"/>
 
 
 [View on google colab](https://colab.research.google.com/drive/1dfgr4Wbd9Pp-vh1nvWShdO0KL8cYYHcY?usp=sharing/)
