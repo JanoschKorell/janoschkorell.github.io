@@ -3,7 +3,7 @@
 ---
 
 
-### NLP - Pre-train Longformer with masked language modelling on german party speeches
+### NLP - Fine-tune pre-trained Longformer for classification party speeches
 
 
 - In a previous script, the longformer was trained on the German language and the type of language used in political speeches of the German parliament. 
