@@ -5,6 +5,7 @@
 
 ### NLP - Fine-tune pre-trained Longformer for classification party speeches
 
+- Framework: Pytorch Lightning
 
 - In a previous script, the longformer was trained on the German language and the type of language used in political speeches of the German parliament. 
 
@@ -27,6 +28,7 @@
 
 ### NLP - Pre-train Longformer with masked language modelling on german party speeches
 
+- Framework: Huggingface/Pytorch
 
 - For long texts the Longformer is a suitable choice, because it can process 4096 inputs of tokens. 
 The goal: The Longformer should be trained with speeches of politicians from the Bundestag, so that the 
@@ -131,6 +133,7 @@ In this script, topics were modeld with the Mallet version of LDA
 
 In this script, I present a simple workflow for finetuning a pretrained BERT model
 
+- Framework: Keras/Tensorflow
 - The data was collected in-house and a sample of the party speeches was created.
 - The data were cleaned.
 - The data were prepared for the huggingface model finetuning
