@@ -157,25 +157,19 @@ In this script, I present a simple workflow for finetuning a pretrained BERT mod
 
 ### NLP - Word2Vec with party speeches of the Bundestag of WP19
 
-In this script, word vectors are created using your own data.
 
-- The data was collected in-house and a sample of the party speeches was created.
-- The data were cleaned
-- A neural network was created (not from gensim).
-- Similar vectors were selected based on keywords. Procedure: SkipGram
-- The data points of the resulting words were reduced to 2-dimensions using tsne.
-- The data points were plotted with Bokeh.
-- You can clearly see the similarities because the themes were coloured in.
+1. Normal Word2Vec with Gensim to find similar words
 
-- Result: The procedure works.
-- But: No statements can be made about the parties themselves. Differences in context are not reflected in the words.
+2. Experiment: Discover more about the group-specific treatment of a keyword with groupspecific marker
+
+3. Experiment: Discover more about the group-specific treatment and timevariance of a keyword.
 
 
 <img src="images/bokeh_plot-2.png?raw=true"/>
 
-[Click here!](https://www.janoschkorell.eu/wp-content/uploads/2023/05/party_speech_tsne.html){:target="_blank"}
 
-[View on google colab](https://colab.research.google.com/drive/1tjqPQcvTm8ZkJBp1-Zlw4ZEa3EqlYOCU?usp=sharing/)
+
+[View on google colab](https://colab.research.google.com/drive/1AUP-fKoiRmP6e5FYnJUdEqcxA2QbAa7r?usp=sharing/)
 
 
 ---
