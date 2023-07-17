@@ -165,7 +165,7 @@ In this script, I present a simple workflow for finetuning a pretrained BERT mod
 3. Experiment: Discover more about the group-specific treatment and timevariance of a keyword.
 
 
-<img src="images/bokeh_plot-2.png?raw=true"/>
+<img src="images/bokeh_plot-4.png"/>
 
 
 
