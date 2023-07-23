@@ -131,7 +131,7 @@ In this script, topics were modeld with the Mallet version of LDA
 
 ### Webscrapping - Script to load all PDFs from Bundestag server
 
-- According to the motto: Automate the boring stuff, you can use this script to load all PDFs of the printed materials from the Bundestag server.
+- According to the motto: Automate the boring stuff, you can use this script to load all PDFs of the "Drucksachen" from the Bundestag server.
 
 
 
