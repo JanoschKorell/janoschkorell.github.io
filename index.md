@@ -82,7 +82,7 @@ In this script, I search for the best model for prediction and configure the lim
 
 ---
 
-### NLP - Doc2Vec, Evaluation, Classification. Also Classification with CNN.
+### NLP - Doc2Vec, Evaluation, Classification. Also Classification text with CNN.
 
 In this script, I classified with the help of Doc2Vec. A possibility to vectorise documents of any length. 
 
@@ -121,6 +121,22 @@ In this script, topics were modeld with the Mallet version of LDA
 [Click here!](https://jako1.w3spaces.com){:target="_blank"}
 
 [View on google colab](https://colab.research.google.com/drive/1r2jQIj2lu4Rgf5qpwEzIYbJ0ksAPiX-m?usp=sharing/)
+
+
+
+---
+
+---
+
+
+### Webscrapping - Script to load all PDFs from Bundestag server
+
+- According to the motto: Automate the boring stuff, you can use this script to load all PDFs of the printed materials from the Bundestag server.
+
+
+
+[View on google colab](https://colab.research.google.com/drive/1HnC8ggF1WKw1Nnl-KrXCiShLLQVo1TU3?usp=sharing/)
+
 
 
 ---
