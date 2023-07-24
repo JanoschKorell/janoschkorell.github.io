@@ -5,6 +5,36 @@
 ---
 
 
+### Interpretation - Detect the reasons of attrition
+
+- The interpretation of the features of a simple decision tree.
+
+- Checking the results with a strong black box model: XGBoost
+  
+- Hyperparameteroptimization with Hypteropt, Permutation Feature Importance and deleting unimportant features.
+
+- Interpretation of the black box modell with agnostic methods like: Partial dependence plots
+
+- What can be achieved with a "simple" and a "strong" model for an action statement for decision makers of a company and how do you weigh it?  
+
+
+
+<img src="images/pdp.png?raw=true"/>
+
+
+[View on google colab](https://colab.research.google.com/drive/1c6cBzpaB1vwp7JT0ol_6RgaVJ8sl5fW_?usp=sharing/)
+
+
+---
+---
+
+
+
+
+
+---
+
+
 ### Research - Perceptions of Income Inequality in Europe - The equity assessment of one's income based on individual, firm, structural and macro factors.
 
 - I sought to demonstrate whether the results of Sauter et al. (2016) are generalizable to the level of Europe: 
@@ -15,7 +45,7 @@ Sauter found for Germany that income inequities are legitimate when they are bas
 <img src="images/pred_Income_box.png?raw=true"/>
 
 
-[Read online]([https://colab.research.google.com/drive/1dfgr4Wbd9Pp-vh1nvWShdO0KL8cYYHcY?usp=sharing/](https://www.janoschkorell.eu/wp-content/uploads/2023/04/Perzeptionen-von-Einkommensungleichheiten-in-Europa.pdf))
+[Read online](https://www.janoschkorell.eu/wp-content/uploads/2023/04/Perzeptionen-von-Einkommensungleichheiten-in-Europa.pdf)
 
 
 ---
