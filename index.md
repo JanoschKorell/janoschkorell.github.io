@@ -57,7 +57,7 @@ Sauter found for Germany that income inequities are legitimate when they are bas
 
 - With the help of the Longformer it is possible to process an input of 4096 tokens, which breaks the limitations of other Bert models. 
 
--  The training takes a very long time and requires a GPU with a lot of RAM. So far, 45 epochs have been trained, each requiring 1.5 hours. You can examine the results so far under "6. test".
+-  The training takes a very long time and requires a GPU with a lot of RAM. So far, 111 epochs have been trained, each requiring 1.5 hours. You can examine the results so far under "6. test".
 
 
 <img src="images/RocAuc_long.png?raw=true"/>
