@@ -29,12 +29,6 @@
 ---
 
 
-
-
-
----
-
-
 ### Research - Perceptions of Income Inequality in Europe - The equity assessment of one's income based on individual, firm, structural and macro factors.
 
 - I sought to demonstrate whether the results of Sauter et al. (2016) are generalizable to the level of Europe: 
