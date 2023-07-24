@@ -1,5 +1,24 @@
 ## Selected projects in data science, machine learning, statistics and NLP
 
+
+
+---
+
+
+### Research - Perceptions of Income Inequality in Europe - The equity assessment of one's income based on individual, firm, structural and macro factors.
+
+- I sought to demonstrate whether the results of Sauter et al. (2016) are generalizable to the level of Europe: 
+Sauter found for Germany that income inequities are legitimate when they are based on individual factors. Operational or structural factors have a significant impact on whether one's income was perceived as fair or unfair. 
+
+- I found: It is not possible to generalize the results of Sauter et al. to the level of Europe. 
+
+<img src="images/pred_Income_box.png?raw=true"/>
+
+
+[View online]([https://colab.research.google.com/drive/1dfgr4Wbd9Pp-vh1nvWShdO0KL8cYYHcY?usp=sharing/](https://www.janoschkorell.eu/wp-content/uploads/2023/04/Perzeptionen-von-Einkommensungleichheiten-in-Europa.pdf))
+
+
+---
 ---
 
 
