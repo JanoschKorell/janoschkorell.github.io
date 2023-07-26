@@ -19,10 +19,10 @@
 
 
 
-<img src="images/pdp.png?raw=true"/>
+<img src="images/PDPIsolate.png?raw=true"/>
 
 
-[View on google colab](https://colab.research.google.com/drive/1c6cBzpaB1vwp7JT0ol_6RgaVJ8sl5fW_?usp=sharing/)
+[View on google colab](https://colab.research.google.com/drive/107sR_fGWCfF5Z1q-xkUQMO6JI9bTv2KL?usp=sharing/)
 
 
 ---
