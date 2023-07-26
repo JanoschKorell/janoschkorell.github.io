@@ -15,7 +15,7 @@
 
 - Interpretation of the black box modell with agnostic methods like: Partial dependence plots
 
-- What can be achieved with a "simple" and a "strong" model for an action statement for decision makers of a company and how do you weigh it?  
+- This notebook will demonstrate that Data Science or Machine Learning is not just about chasing the best prediction, but can also be used to understand feature-feature or feature-target relationships more deeply in order to provide concrete hand-on guidance and understanding.  
 
 
 
