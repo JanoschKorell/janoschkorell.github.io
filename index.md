@@ -1,6 +1,40 @@
 ## Selected projects in data science, machine learning, statistics and NLP
 
 
+---
+
+
+### Deep Learning - Anomaly Detection with Autoencoder
+
+- Autoencoders are fascinating because they can be used to create a "numerical mapping" of an entity.
+
+- In the process, the dimensions per hidden layer are reduced (encoder).
+
+- The hidden layer with the smallest dimension is the so-called "bottleneck".
+
+- Then the dimensions are increased again (decoder).
+
+- The target is the input itself, so the decoder is forced to "reconstruct" the entity. 
+
+- This can be seen as a kind of non-linear PCA with NN.
+
+- The popular way to solve a problem with autoencoders is: 
+
+- Another entity has a different reconstruction loss so that other entities can be recognised. Especially with a very unbalanced data set, this may be the only possibility.
+
+- Based on the different distributions of the different entities, one can, for example, draw a threshold to automate a decision.
+
+
+
+<img src="images/Autoencoder.png?raw=true"/>
+
+
+[View on google colab](https://colab.research.google.com/drive/1x_fVRtSW3Q1N45eiYPCrGWRVJeN-GC2J?usp=sharing)
+
+
+---
+---
+
 
 ---
 
