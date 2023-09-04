@@ -20,9 +20,11 @@
 
 - The popular way to solve a problem with autoencoders is: 
 
-- Another entity has a different reconstruction loss so that other entities can be recognised. Especially with a very unbalanced data set, this may be the only possibility.
-
-- Based on the different distributions of the different entities, one can, for example, draw a threshold to automate a decision.
+    - Another entity has a different reconstruction loss so that other entities can be recognised. Especially with a very unbalanced data set, this may be the only possibility.
+    
+    - Based on the different distributions of the different entities, one can, for example, draw a threshold to automate a decision.
+ 
+    - In this case, the reconstruction loss of fraud and non-fraud data is plotted to draw a decision boundary.
 
 
 
