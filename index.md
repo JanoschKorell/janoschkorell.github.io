@@ -4,7 +4,7 @@
 ---
 
 
-### Deep Learning - Anomaly Detection with Autoencoder
+### Deep Learning - Anomaly Detection using Autoencoder
 
 - Autoencoders are fascinating because they can be used to create a "numerical mapping" of an entity.
 
