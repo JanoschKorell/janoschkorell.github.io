@@ -1,6 +1,27 @@
 ## Selected projects in data science, machine learning, statistics and NLP
 
 
+
+
+---
+
+### Deep Learning - Stock Market Forecasting with LSTM
+
+- Univariate modelling
+
+- Feature Engineering: 100 timesteps to predict 1 day
+
+- LSTM Stack with hyperparameter to get the best forecasting
+
+
+<img src="images/LSTM_Stock.png?raw=true"/>
+
+
+[View on google colab](https://colab.research.google.com/drive/10bwEab00XRrGvSTvlt4EoUt5xlGiYlhu?usp=sharing)
+
+
+
+---
 ---
 
 
