@@ -2,6 +2,22 @@
 
 ---
 
+### Analyzing time series with linear and dynamic methods 
+
+- Linear models that were used: VAR, Granger Causylity, Impulse Response and Forecast Error Variance Decomposition
+  
+- Dynamic methods that were used: Convergent Cross Mapping (CCM)
+  
+- CCM is a new method that is non-linear and can be used as a dynamic "causality analysis" that works without assumptions.
+  
+- The question of whether the FED's interest rate behavior can have an influence on the Dow Jones was clarified.
+
+<img src="images/convergent.png?raw=true"/>
+
+[View on google colab](https://colab.research.google.com/drive/1TNXHsmf3MI1mYiLb_098daBcAxbISvpd?usp=sharing)
+
+---
+
 ### Forecast bitcoin - Multioutput with Regressorchain and LightGBM.
 
 - Multivariate multioutput modelling with LightGBM and RegressorChain
