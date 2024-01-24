@@ -14,7 +14,7 @@
   
 - This model can forecast 15 days of the bitcoin stock
 
-
+<img src="images/LightGBM Bitcoin.png?raw=true"/>
 
 
 [View on google colab](https://colab.research.google.com/drive/1DgBxUSYDBiZyVNItglVpMK3Fb0oKvibl?usp=sharing)
