@@ -6,7 +6,7 @@
 
 - For practical use, this approach is a type of analysis that can be used to determine the predictive power of a time series by itself.
 
-<img src="images/convergent.png?raw=true"/>
+<img src="images/predictiv power.png?raw=true"/>
 
 [View on google colab](https://colab.research.google.com/drive/1N2jHDRhqBYR9Il3O0C1CKqBP7rakkeWn?usp=sharing)
 
