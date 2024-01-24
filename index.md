@@ -1,12 +1,22 @@
 ## Selected projects in data science, machine learning, statistics and NLP
 
+- Time series are strange phenomena due to their autoregressive nature. You cannot say that a sine-like or random-walk time series (like stocks) are "equal". What else can you find out about time series? 
+
+- The aim of this study is to investigate whether different types of time series can be distinguished into chaotic and noisy time series with "Simplex" of EDM. Artificial time series (sine and sine with noise), human-generated time series (Financial Stress Index) and the Bitcoin share are examined serially.
+
+- For practical use, this approach is a type of analysis that can be used to determine the predictive power of a time series by itself.
+
+<img src="images/convergent.png?raw=true"/>
+
+[View on google colab](https://colab.research.google.com/drive/1N2jHDRhqBYR9Il3O0C1CKqBP7rakkeWn?usp=sharing)
+
 ---
 
 ### Analyzing time series with linear and dynamic methods 
 
 - Linear models that were used: VAR, Granger Causylity, Impulse Response and Forecast Error Variance Decomposition
   
-- Dynamic methods that were used: Convergent Cross Mapping (CCM)
+- Dynamic methods that were used: Convergent Cross Mapping (CCM) which is a part of Empirical Danymic Modeling (EDM).
   
 - CCM is a new method that is non-linear and can be used as a dynamic "causality analysis" that works without assumptions.
   
