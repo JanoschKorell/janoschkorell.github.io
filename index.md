@@ -1,7 +1,23 @@
 ## Selected projects in data science, machine learning, statistics and NLP
 
+---
+
+### Forecast bitcoin - Multioutput with Regressorchain and LightGBM.
+
+- Multivariate multioutput modelling with LightGBM and RegressorChain
+  
+- Baseline with VAR
+  
+- Hyperparatersearch with BayesOpt
+  
+- Featureimportance
+  
+- This model can forecast 15 days of the bitcoin stock
 
 
+
+
+[View on google colab](https://colab.research.google.com/drive/1DgBxUSYDBiZyVNItglVpMK3Fb0oKvibl?usp=sharing)
 
 ---
 
