@@ -1,5 +1,7 @@
 ## Selected projects in data science, machine learning, statistics and NLP
 
+### Analyzing time series: Noisy vs. chaotic time series
+
 - Time series are strange phenomena due to their autoregressive nature. You cannot say that a sine-like or random-walk time series (like stocks) are "equal". What else can you find out about time series? 
 
 - The aim of this study is to investigate whether different types of time series can be distinguished into chaotic and noisy time series with "Simplex" of EDM. Artificial time series (sine and sine with noise), human-generated time series (Financial Stress Index) and the Bitcoin share are examined serially.
