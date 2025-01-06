@@ -1,5 +1,22 @@
 ## Selected projects in data science, machine learning, statistics and NLP
 
+
+### STANCE Classification - Transferlearning with Pytorch and Explainable AI with SHAP
+
+- In this example, a stance classification is performed with sentencetransformer and pytorch. SHAP is then used to analyse which parts of the text are responsible for one class or another. This makes it possible to analyse what is decisive for one class or the other.
+
+- Transfer learning is carried out with a setence transformer model. The data set consists of political speeches that are either in favour or against. The classification with an f-1 score of about 0.9 is very good. 
+
+- SHAP can then be used to analyse which parts of a speech were decisive for the classification. 
+
+<img src="images/SHAP Text.png?raw=true"/>
+
+[View on google colab](https://colab.research.google.com/drive/1N2jHDRhqBYR9Il3O0C1CKqBP7rakkeWn?usp=sharing)
+
+---
+
+
+
 ### Analyzing time series: Noisy vs. chaotic time series
 
 - Time series are strange phenomena due to their autoregressive nature. You cannot say that a sine-like or random-walk time series (like stocks) are "equal". What else can you find out about time series? 
@@ -57,6 +74,7 @@
 
 - LSTM Stack with hyperparameter to get the best forecasting
 
+- This is only for training purposes. Forecasting with LSTM is not recommended. 
 
 <img src="images/LSTM_Stock.png?raw=true"/>
 
