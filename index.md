@@ -1,6 +1,42 @@
 ## Selected projects in data science, machine learning, statistics and NLP
 
 
+
+### Agentic RAG - Llamaindex workflows
+
+- This Agentic RAG was created with llamaindex and llamaindex workflows. The interface was created with streamlit and provided with docker on render. The LLM is gpt-4o-mini.
+
+- The goal of this RAG is full control over retrieval and functionalities. Public applications are very good in bulk, but you need solutions for customised individual applications. This is a prototype that will be continuously expanded and has a modular structure. 
+
+- The RAG is basically designed so that an orchestration and extration step ‘plans’ the plan for all further steps. It is determined whether metadata, text data or both are required for retrieval. The results are then passed on to trigger the ‘modules’, which can represent an application in themselves. Basically, the query is broken down into parts to create a plan on how to correctly satisfy the user's needs. This RAG is not a chat application, but purely functional. 
+
+- So it is possible to ask exactly what is on page X on what is on page X1-X2 in a document. Any metadata that is available can be used for a specific enquiry, and the results of the metadata search can also lead to text data searches when questions are asked about topics or issues. 
+
+- Only one citation module is currently available. If requests are made for citations, this is recognised. For all other cases, only synthesis is available.
+
+
+In addition, there is a very complex data processing, so that:
+
+- Tests are recorded per page and metadata such as: page number, headings, author, year, publisher, tables and links.
+
+In addition, there is also data collection from YouTube videos:
+-Transcription,adding punctuation and inventing headlines
+
+
+You can try the RAG below and look at the code at colab.
+
+
+Current books that are indexed are:
+
+
+<img src="images/agentic rag.jpg?raw=true"/>
+
+[View on google colab](https://colab.research.google.com/drive/1Z55nOfsYAexdojqc0NKYKfpNmLJ7PfMp)
+[Try the RAG](https://colab.research.google.com/drive/1Z55nOfsYAexdojqc0NKYKfpNmLJ7PfMp)
+
+---
+
+
 ### STANCE Classification - Transferlearning with Pytorch and Explainable AI with SHAP
 
 - In this example, a stance classification is performed with sentencetransformer and pytorch. SHAP is then used to analyse which parts of the text are responsible for one class or another. This makes it possible to analyse what is decisive for one class or the other.
