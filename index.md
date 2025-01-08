@@ -17,7 +17,7 @@
 
 In addition, there is a very complex data processing, so that:
 
-- Tests are recorded per page and metadata such as: page number, headings, author, year, publisher, tables and links.
+- Texts are recorded per page and metadata such as: page number, headings, author, year, publisher, tables and links.
 
 In addition, there is also data collection from YouTube videos:
 -Transcription,adding punctuation and inventing headlines
