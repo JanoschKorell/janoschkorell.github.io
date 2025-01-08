@@ -23,10 +23,7 @@ In addition, there is also data collection from YouTube videos:
 -Transcription,adding punctuation and inventing headlines
 
 
-You can try the RAG below and look at the code at colab.
-
-
-Current books that are indexed are:
+Due to problems with the size of my Docker image, no live application is possible.
 
 
 <img src="images/agentic rag.jpg?raw=true"/>
