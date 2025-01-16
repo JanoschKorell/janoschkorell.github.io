@@ -44,7 +44,7 @@ Due to problems with the size of my Docker image, no live application is possibl
 
 <img src="images/SHAP Text.png?raw=true"/>
 
-[View on google colab](https://colab.research.google.com/drive/1N2jHDRhqBYR9Il3O0C1CKqBP7rakkeWn?usp=sharing)
+[View on google colab](https://colab.research.google.com/drive/1uiW8ARd5CoHdaSDnmCc_3z4rzpbYiG_Z#scrollTo=kOfALpaZDrCc)
 
 ---
 
