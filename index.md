@@ -28,8 +28,8 @@ Due to problems with the size of my Docker image, no live application is possibl
 
 <img src="images/agentic rag.jpg?raw=true"/>
 
-[View on google colab](https://colab.research.google.com/drive/1Z55nOfsYAexdojqc0NKYKfpNmLJ7PfMp)
-[Try the RAG](https://colab.research.google.com/drive/1Z55nOfsYAexdojqc0NKYKfpNmLJ7PfMp)
+[View on google colab](https://colab.research.google.com/drive/1Z55nOfsYAexdojqc0NKYKfpNmLJ7PfMp?usp=sharing)
+
 
 ---
 
@@ -44,7 +44,7 @@ Due to problems with the size of my Docker image, no live application is possibl
 
 <img src="images/SHAP Text.png?raw=true"/>
 
-[View on google colab](https://colab.research.google.com/drive/1uiW8ARd5CoHdaSDnmCc_3z4rzpbYiG_Z#scrollTo=kOfALpaZDrCc)
+[View on google colab](https://colab.research.google.com/drive/1uiW8ARd5CoHdaSDnmCc_3z4rzpbYiG_Z?usp=sharing)
 
 ---
 
